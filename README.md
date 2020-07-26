@@ -6,3 +6,4 @@ My work experience in python:
 3. Classes and object-oriented concepts 
 4. Generators and Decorators 
 5. Some materials that are in line with Data Sience such as Numpy, Pandas and Matplotlib
+...
